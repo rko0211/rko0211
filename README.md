@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Prakash Mondal
-- 🔭 I’m currently working on Indian Sanskrity Website
-- 🌱 I’m currently learning Node js
+- 🔭 I’m currently working on ..........
+- 🌱 I’m currently learning .......
 - 👯 I’m looking to collaborate on open source project
 - 📫 How to reach me: https://www.linkedin.com/in/prakash-mondal-94bb7a22a/
 - 😄 Pronouns: He/Him
