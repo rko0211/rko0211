@@ -2,7 +2,7 @@
 ### Prakash Mondal
 - 👀 Passionate about Software Development & Machine Learning
 - 🔭 I’m currently working on MERN 
-- 🌱 I’m currently learning Cloud
+- 🌱 I’m currently learning C# and the .NET Framework 
 - 👯 I’m looking to collaborate on open source project
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prakash-mondal-94bb7a22a/)
 - 😄 Pronouns: He/Him/Mr.
